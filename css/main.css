@@ -1,0 +1,38 @@
+.navbar{
+    background-color: rgb(237, 236, 216);
+}
+.c-item{
+    height: 480px;
+}
+
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.7);
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 17px;
+}
+
+.form h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.quartos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    padding-bottom: 2px;
+}
